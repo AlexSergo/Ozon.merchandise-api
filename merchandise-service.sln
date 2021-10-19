@@ -6,6 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{8F42AC
 ProjectSection(SolutionItems) = preProject
 	readme.md = readme.md
 	.gitignore = .gitignore
+	dockerfile = dockerfile
 EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{FC9E1672-03C8-44A9-89A4-F047B7D5E3B9}"
